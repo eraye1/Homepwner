@@ -8,3 +8,4 @@ A work-in-progress for an IPhone app that allows users to share items.
 * **delegate design pattern**
 * **Objective-C**
 * **camera**
+* **other stuff that I honestly can't remember... :)**
