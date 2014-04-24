@@ -46,7 +46,7 @@
 		4402A67819096E0A003D2707 /* BNRImageStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRImageStore.m; sourceTree = "<group>"; };
 		4402A67A1909D92F003D2707 /* BNRItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRItemsViewController.h; sourceTree = "<group>"; };
 		4402A67B1909D92F003D2707 /* BNRItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRItemsViewController.m; sourceTree = "<group>"; };
-		446C42FD1909DB4E00A272D7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		446C42FD1909DB4E00A272D7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = Homepwner/README.md; sourceTree = "<group>"; };
 		44CC4F0F1903A34000AEDF86 /* Homepwner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homepwner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44CC4F121903A34000AEDF86 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		44CC4F141903A34000AEDF86 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -103,6 +103,7 @@
 		44CC4F061903A34000AEDF86 = {
 			isa = PBXGroup;
 			children = (
+				446C42FD1909DB4E00A272D7 /* README.md */,
 				44CC4F181903A34000AEDF86 /* Homepwner */,
 				44CC4F311903A34000AEDF86 /* HomepwnerTests */,
 				44CC4F111903A34000AEDF86 /* Frameworks */,
@@ -150,7 +151,6 @@
 				44CC4F451903A84D00AEDF86 /* BNRItem.m */,
 				44CC4F471903A89B00AEDF86 /* BNRItemStore.h */,
 				44CC4F481903A89B00AEDF86 /* BNRItemStore.m */,
-				446C42FD1909DB4E00A272D7 /* README.md */,
 				44CC4F241903A34000AEDF86 /* Images.xcassets */,
 				44CC4F191903A34000AEDF86 /* Supporting Files */,
 			);
